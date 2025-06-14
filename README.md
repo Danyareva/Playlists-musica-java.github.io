@@ -19,20 +19,5 @@ Este proyecto implementa un sistema de gestión de una playlist musical utilizan
 ✔️ Manejo de excepciones con `try-catch` para entradas numéricas  
 ✔️ Persistencia de datos en archivo (`playlist.dat`)  
 ✔️ Carga automática de datos al reiniciar el programa  
-✔️ Limpieza de consola para mantener una experiencia clara y ordenada
+✔️ Limpieza de consola para mantener una experiencia clara y ordenada    
 
----
-
-## 🧠 Requisitos
-
-- Tener instalado **Java JDK** (versión 8 o superior)
-- Ejecutar el programa desde consola (CMD, Terminal o Git Bash)
-
----
-
-## ▶️ Cómo ejecutar
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/Danyareva/playlist-musica-java.git
-cd playlist-musica-java
